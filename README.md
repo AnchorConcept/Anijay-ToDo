@@ -25,5 +25,3 @@ A simple and responsive To-Do List web application built using **React**.
 ## 🌐 Live Demo
 https://anijay-todo.netlify.app/
 
-
-_Coming soon..._ (Will be added once deployed)
